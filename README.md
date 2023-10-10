@@ -1,11 +1,15 @@
-Web Extraction with Langchain & OpenAI
+# Web Extraction with Langchain & OpenAI
+
 Utilize the power of the langchain web extraction library in tandem with OpenAI's GPT models to effortlessly extract product details from WooCommerce websites.
 
 🚀 Getting Started
+
 🛠️ Prerequisites
 Python: The script is compatible with Python 3.x.
 pip: To manage the Python packages, ensure pip is installed.
+
 🔧 Installation
+
 Virtual Environment: Before we proceed, it's recommended to set up a Python virtual environment to keep things clean and organized.
 
 First, if you haven't already, install virtualenv:
