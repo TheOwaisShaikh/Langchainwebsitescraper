@@ -1,4 +1,4 @@
-# Web Extraction with Langchain & OpenAI
+# Woocommerce Web Extraction with Langchain & OpenAI
 
 Utilize the power of the langchain web extraction library in tandem with OpenAI's GPT models to effortlessly extract product details from WooCommerce websites.
 
